@@ -22,12 +22,10 @@ Currently, I am developing portfolio projects using Kaggle datasets and real bus
 ---
 ## 🛠 Tools, Technologies & Libraries
 <p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="50" title="Python"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="50" title="SQL"/>
-</p>
-<p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="50" title="Pandas"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matplotlib/matplotlib-original.svg" width="50" title="Matplotlib"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="65" title="Python"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="65" title="SQL"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="65" title="Pandas"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matplotlib/matplotlib-original.svg" width="65" title="Matplotlib"/>
 </p>
 <p align="left">
   <img src="https://img.icons8.com/color/48/google-colab.png" width="50" title="Google Colab"/>
@@ -55,19 +53,6 @@ Currently, I am developing portfolio projects using Kaggle datasets and real bus
 
 ---
 
-## 📌 Featured Projects (Coming Soon)
-
-🚀 I am currently preparing my best portfolio projects, including:
-
-- Customer Churn Analysis  
-- Credit Default Risk Insight  
-- Job Market Data Analytics  
-- AI Usage & Academic Performance Study  
-
-Stay tuned!
-
----
-
 ## 📫 Contact Me
 
 <p align="left">
@@ -75,7 +60,6 @@ Stay tuned!
   <img src="https://img.icons8.com/fluency/48/instagram-new.png" width="22"/>
   <b>Instagram:</b> 
   <a href="https://instagram.com/chntyamelia">instagram.com/chntyamelia</a><br><br>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="22"/>
 </p>
 
 ---
