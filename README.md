@@ -1,3 +1,5 @@
+<!-- Banner -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1e3c72,100:2a5298&height=180&section=header&text=Chintya%20Amelia%20Putri&fontSize=40&fontColor=ffffff" />
 <h1 align="center">Hi 👋, I'm Chintya Amelia Putri</h1>
 <h3 align="center">📊 Aspiring Data Analyst | Data Analytics & Business Insight</h3>
 
@@ -88,3 +90,5 @@ Stay tuned!
 
 ⭐ Thank you for visiting my GitHub profile!  
 Feel free to explore my repositories and follow my data analytics journey.
+<!-- Footer -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1e3c72,100:2a5298&height=120&section=footer"/>
