@@ -43,9 +43,7 @@ Currently, I am developing portfolio projects using Kaggle datasets and real bus
 
 ## 📈 GitHub Statistics
 <p align="center">
-  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=404FoundMeExist&show_icons=true&theme=tokyonight" height="160"/>
-  
-  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=404FoundMeExist&layout=compact&theme=tokyonight" height="160"/>
+  <img src="https://streak-stats.demolab.com?user=404FoundMeExist&theme=tokyonight" height="180"/>
 </p>
 
 ---
