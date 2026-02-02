@@ -79,9 +79,10 @@ Studi eksplorasi hubungan penggunaan AI dengan performa akademik siswa.
 <hr>
 
 <p align="center">
-⭐ Thank you for visiting my GitHub profile! <br>
-Feel free to explore my repositories and follow my data analyst journey.
-</p>
+⭐ Thank you for visiting my GitHub portfolio!  
+I’m currently open to entry-level Data Analyst opportunities and would be excited to join a company where I can contribute through data exploration, visualization, and business-driven insights.  
+Feel free to reach out — I’d love to connect and collaborate.
+
 
 <!-- Footer -->
 <p align="center">
