@@ -41,43 +41,52 @@ Currently, I am developing portfolio projects using Kaggle datasets and real bus
 
 ---
 
-## 📌 Featured Projects
+## 📌 Featured Data Analytics Projects
 
 <table>
 <tr>
-<td>
+<td width="50%">
 
-<a href="https://github.com/404FoundMeExist/global-unemployment-analysis">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=404FoundMeExist&repo=global-unemployment-analysis&theme=tokyonight" />
-</a>
+### 📊 Telco Customer Churn Analysis  
+Analisis pelanggan berisiko churn dan strategi retensi berbasis data.  
+
+🔗 **Repository:**  
+https://github.com/404FoundMeExists/Telco-Customer-Churn  
 
 </td>
-<td>
+<td width="50%">
 
-<a href="https://github.com/404FoundMeExist/Job_Market_Analysis">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=404FoundMeExist&repo=Job_Market_Analysis&theme=tokyonight" />
-</a>
+### 📈 Job Market Analysis Indonesia  
+Eksplorasi tren skill Data Analyst dari lowongan kerja Indonesia.  
+
+🔗 **Repository:**  
+https://github.com/404FoundMeExists/Job_Market_Analysis  
 
 </td>
 </tr>
 
 <tr>
-<td>
+<td width="50%">
 
-<a href="https://github.com/404FoundMeExist/AI-Usage-and-Student-Academic-Performance_Exploratory-Data-Analysis">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=404FoundMeExist&repo=AI-Usage-and-Student-Academic-Performance_Exploratory-Data-Analysis&theme=tokyonight" />
-</a>
+### 🌍 Global Unemployment Analysis  
+Analisis tren pengangguran global menggunakan dataset World Bank (1991–2021).  
+
+🔗 **Repository:**  
+https://github.com/404FoundMeExists/global-unemployment-analysis  
 
 </td>
-<td>
+<td width="50%">
 
-<a href="https://github.com/404FoundMeExist/Telco-Customer-Churn">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=404FoundMeExist&repo=Telco-Customer-Churn&theme=tokyonight" />
-</a>
+### 🤖 AI Usage & Student Performance  
+Studi eksplorasi hubungan penggunaan AI dengan performa akademik siswa.  
+
+🔗 **Repository:**  
+https://github.com/404FoundMeExists/AI-Usage-and-Student-Academic-Performance_Exploratory-Data-Analysis  
 
 </td>
 </tr>
 </table>
+
 
 
 
