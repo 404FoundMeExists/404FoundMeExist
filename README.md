@@ -54,7 +54,7 @@ Currently, I am developing portfolio projects using Kaggle datasets and real bus
   📧 <b>Email:</b> <a href="mailto:chntyamelia2605@gmail.com">chntyamelia2605@gmail.com</a> <br><br>
   <img src="https://img.icons8.com/fluency/48/instagram-new.png" width="22"/>
   <b>Instagram:</b> 
-  <a href="https://instagram.com/chntyamelia">instagram.com/chntyamelia</a><br><br>
+  <a href="https://instagram.com/chntyamlia">instagram.com/chntyamelia</a><br><br>
 </p>
 
 ---
