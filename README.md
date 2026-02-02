@@ -44,7 +44,7 @@ Currently, I am developing portfolio projects using Kaggle datasets and real bus
 ## 🔥 GitHub Streak
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=404FoundMeExist&theme=tokyonight" />
+  <img src="https://streak-stats.demolab.com?user=404FoundMeExists&theme=tokyonight" />
 </p>
 
 
