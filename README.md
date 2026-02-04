@@ -47,7 +47,7 @@ Currently, I am developing portfolio projects using Kaggle datasets and real bus
 
 <hr>
 
-## 📌 Featured Data Analytics Projects
+## 📌 Featured Data Analysis Projects
 
 ### 📊 [Telco Customer Churn Analysis](https://github.com/404FoundMeExists/Telco-Customer-Churn)
 Analisis pelanggan berisiko churn dan rekomendasi strategi retensi berbasis data.
